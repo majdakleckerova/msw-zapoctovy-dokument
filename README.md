@@ -6,7 +6,7 @@ Marie Kleckerová
 ## studentské číslo: 
 F23108/st101881
 
-## Vypracoované úlohy:
+## Vypracované úlohy:
 - 1 . Knihovny a moduly pro matematické výpočty
 - 2 . Vizualizace dat
 - 3 . Úvod do lineární algebry
